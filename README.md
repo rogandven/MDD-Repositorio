@@ -2,5 +2,5 @@
 
 Hola, mundo!
 
-> [NOTE!]
-> Aparentemente Roger ya sabía como usar Markdown.
+> [!NOTE]
+> Aparentemente Roger olvidó un signo de exclamación.
